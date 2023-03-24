@@ -1,6 +1,10 @@
-This is my Data Science Bootcamp at Future Collars final project
+This is my Data Science Bootcamp at Future Collars final project.
+
+
 Pawel Marcinski
 Lending Club
+
+
 Lending Club is a peer-to-peer lending company that connects borrowers with investors for
 via the online platform. Serves people who need personal loans in
 from USD 1,000 to USD 40,000. Borrowers receive the full amount of the loan granted
